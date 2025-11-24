@@ -3,7 +3,7 @@
 # Sensitive
 data/
 dblogin*
-paths.json
+# paths.json
 trained_models/
 outputs/
 
