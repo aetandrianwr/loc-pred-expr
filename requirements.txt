@@ -1,10 +1,11 @@
-python=3.9.12
+# python=3.9.12
+numpy<2
 pytorch
 tqdm
 easydict
-yaml
+# yaml
 pyyaml
 transformers
-cudatoolkit
+# cudatoolkit
 trackintel
 gensim
